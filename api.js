@@ -10,12 +10,6 @@ import {
   where} from "firebase/firestore/lite"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAtjZS3mZO14d1MlduUr8bKOXxDBnD1NJI",
-  authDomain: "van-lifee.firebaseapp.com",
-  projectId: "van-lifee",
-  storageBucket: "van-lifee.appspot.com",
-  messagingSenderId: "282399181672",
-  appId: "1:282399181672:web:487643c3773c797f21e4dd"
 };
 
 const app = initializeApp(firebaseConfig);
